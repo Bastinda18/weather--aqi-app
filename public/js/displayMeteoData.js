@@ -31,9 +31,7 @@ const displayMeteoData = (data, root) => {
 	};
 
 	const message = `
-                
-
-                 <div class="current">
+                <div class="current">
       <div class="current--weather">
         <h2>Current Weather:</h2>
         <p id="temperature">${data.forecastCurrent.currentTemp}&#176;C</p>
