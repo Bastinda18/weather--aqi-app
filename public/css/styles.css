@@ -65,7 +65,7 @@ input:focus {
 button {
 	border-radius: .5rem;
 	border: none;
-	background-clip: #fff;
+	background-color: #fff;
 	color: #333;
 	padding: .9rem 1.5rem;
 	font-size: 1.5rem;
